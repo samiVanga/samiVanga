@@ -3,7 +3,7 @@
 I’m a Computer Science student at the University of Nottingham, passionate about building innovative software solutions and exploring the potential of cloud computing, artificial intelligence, and cybersecurity. I’m always excited to learn new technologies and contribute to impactful projects.
 
 ## 👀 I’m interested in:
-- Software Development (Java, Python, JavaScript)
+- Software Development (Java, Python, JavaScript,C#)
 - Machine Learning and Deep Learning (CNNs, Image Classification)
 - Cloud Technologies (AWS, Google Cloud Platform)
 - Cybersecurity and Network Security (Linux, Metasploit, Network Hardening)
